@@ -1,0 +1,5 @@
+print(" Welcome To Band Name Generator")
+a=input("Enter your first name\n")
+b=input("Enter your pets name\n")
+print("Your Bands Name Can Be:",a+b)
+# print(a+b)
